@@ -1,2 +1,2 @@
-Git is a multi-person distributed version control system.
-Git is a free software with GPL copyright.
+Git is a multi-host distributed version control system.
+Git is a free software under GPL copyright.
