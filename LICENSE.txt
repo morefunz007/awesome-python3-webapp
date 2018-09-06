@@ -1,2 +1,0 @@
-# This is a test for python web app.
-# If there is any mistakes, please let me know~
